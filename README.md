@@ -4,11 +4,9 @@
 Soy un desarrollador con interés en electrónica, sistemas embebidos, desarrollo web y automatización. 
 Me gusta crear soluciones funcionales combinando hardware y software.
 
-:computer: programmer
+📍 locación: Ciudad de Mexico
 
-:video_game: like videogames
-
-:book: read horror and suspense stories
+📖 University: UNAM
 
 
 ## 🛠️ Tecnologías que uso
