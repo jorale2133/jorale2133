@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+:zap: Engineer electric-electronic
+:computer: programmer
+:video_game: like videogames
+
+- my lenguages
+:python:  
+
 <!--
 **jorale2133/jorale2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
