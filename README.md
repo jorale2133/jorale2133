@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jorale2133/jorale2133)
 
-:zap: Engineer electric-electronic
+Soy un desarrollador con interés en electrónica, sistemas embebidos, desarrollo web y automatización. 
+Me gusta crear soluciones funcionales combinando hardware y software.
 
 :computer: programmer
 
@@ -9,31 +10,23 @@
 
 :book: read horror and suspense stories
 
-- Lenguages and technologies:
 
-![Static Badge](https://img.shields.io/badge/python-darkgreen)
-![Static Badge](https://img.shields.io/badge/c-blue)
-![Static Badge](https://img.shields.io/badge/html-orange)
-![Static Badge](https://img.shields.io/badge/css-blue)
-![Static Badge](https://img.shields.io/badge/javascript-yellow)
+## 🛠️ Tecnologías que uso
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad&logoColor=white)
+
+## 📈 Estadísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorale2133&layout=compact&theme=default)
 
 
 ### Vias de contacto 
 
-
-
-
-<!--
-**jorale2133/jorale2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [GitHub](https://github.com/jorale2133)
+- 📧 Correo personal: **jorale2133@gmail.com**
+- 📧 Correo alternativo: **JASZ2133@outlook.com**
