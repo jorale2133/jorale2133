@@ -29,3 +29,9 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 - 🌐 [GitHub](https://github.com/jorale2133)
 - 📧 Correo personal: **jorale2133@gmail.com**
 - 📧 Correo alternativo: **JASZ2133@outlook.com**
+
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
