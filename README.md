@@ -32,5 +32,13 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 
 ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [jorale2133/proob_platzi](https://github.com/jorale2133/proob_platzi)<br>
+2. ⬆️ Pushed 1 commit(s) to [jorale2133/proob_platzi](https://github.com/jorale2133/proob_platzi)<br>
+3. ⬆️ Pushed 1 commit(s) to [jorale2133/proob_platzi](https://github.com/jorale2133/proob_platzi)<br>
+4. ⬆️ Pushed 1 commit(s) to [jorale2133/proob_platzi](https://github.com/jorale2133/proob_platzi)<br>
+5. ⬆️ Pushed 1 commit(s) to [jorale2133/proob_platzi](https://github.com/jorale2133/proob_platzi)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, July 17th, 2025, 8:07:27 AM
+<!--RECENT_ACTIVITY:last_update_end-->
