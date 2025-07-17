@@ -31,7 +31,6 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 - 📧 Correo alternativo: **JASZ2133@outlook.com**
 
 ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
