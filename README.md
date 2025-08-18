@@ -32,13 +32,8 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 
 ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jorale2133/proob_platzi](https://github.com/jorale2133/proob_platzi)<br>
-2. ✌️ Released [v0.1.0](https://github.com/jorale2133/tercerRepo/releases/tag/v0.1.0) in [jorale2133/tercerRepo](https://github.com/jorale2133/tercerRepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [jorale2133/tercerRepo](https://github.com/jorale2133/tercerRepo)<br>
-4. 📔 Created new repository [jorale2133/tercerRepo](https://github.com/jorale2133/tercerRepo)<br>
-5. ⬆️ Pushed 2 commit(s) to [jorale2133/miCuartoRepo](https://github.com/jorale2133/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 18th, 2025, 2:10:34 AM
+Last Updated: Monday, August 18th, 2025, 12:54:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
