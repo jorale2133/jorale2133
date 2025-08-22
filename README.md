@@ -23,7 +23,6 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorale2133&layout=compact&theme=default)
 
-
 ### Vias de contacto 
 
 - 🌐 [GitHub](https://github.com/jorale2133)
