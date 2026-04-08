@@ -31,10 +31,12 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 
 ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jorale2133/Automation](https://github.com/jorale2133/Automation)<br>
-2. ⬆️ Pushed undefined commit(s) to [jorale2133/Automation](https://github.com/jorale2133/Automation)<br>
+1. ⬆️ Pushed undefined commit(s) to [jorale2133/cursoPIPyEV](https://github.com/jorale2133/cursoPIPyEV)<br>
+2. ⬆️ Pushed undefined commit(s) to [jorale2133/cursoPIPyEV](https://github.com/jorale2133/cursoPIPyEV)<br>
+3. ⬆️ Pushed undefined commit(s) to [jorale2133/Automation](https://github.com/jorale2133/Automation)<br>
+4. ⬆️ Pushed undefined commit(s) to [jorale2133/Automation](https://github.com/jorale2133/Automation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 7th, 2026, 1:43:28 PM
+Last Updated: Wednesday, April 8th, 2026, 2:55:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
