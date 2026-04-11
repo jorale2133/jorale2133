@@ -32,12 +32,12 @@ Me gusta crear soluciones funcionales combinando hardware y software.
 ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jorale2133/Curso-de-ciencias-de-Daatos](https://github.com/jorale2133/Curso-de-ciencias-de-Daatos)<br>
-2. ⬆️ Pushed undefined commit(s) to [jorale2133/cursoPIPyEV](https://github.com/jorale2133/cursoPIPyEV)<br>
+2. ⬆️ Pushed undefined commit(s) to [jorale2133/Curso-de-ciencias-de-Daatos](https://github.com/jorale2133/Curso-de-ciencias-de-Daatos)<br>
 3. ⬆️ Pushed undefined commit(s) to [jorale2133/cursoPIPyEV](https://github.com/jorale2133/cursoPIPyEV)<br>
 4. ⬆️ Pushed undefined commit(s) to [jorale2133/cursoPIPyEV](https://github.com/jorale2133/cursoPIPyEV)<br>
 5. ⬆️ Pushed undefined commit(s) to [jorale2133/cursoPIPyEV](https://github.com/jorale2133/cursoPIPyEV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 11th, 2026, 2:46:53 AM
+Last Updated: Saturday, April 11th, 2026, 1:11:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
